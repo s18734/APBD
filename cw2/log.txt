@@ -1,0 +1,169 @@
+Błąd numer 0 Student juz istnieje w pliczku
+Student z linii 1 nie zostal wpisany do pliku
+Błąd numer 1 Student juz istnieje w pliczku
+Student z linii 2 nie zostal wpisany do pliku
+Błąd numer 2 Student juz istnieje w pliczku
+Student z linii 5 nie zostal wpisany do pliku
+Błąd numer 3 Student juz istnieje w pliczku
+Student z linii 7 nie zostal wpisany do pliku
+Błąd numer 4 Niepoprawna ilosc informacji o studencie
+Student z linii 11 nie zostal wpisany do pliku
+Błąd numer 5 Niepoprawna ilosc informacji o studencie
+Student z linii 12 nie zostal wpisany do pliku
+Błąd numer 6 Student juz istnieje w pliczku
+Student z linii 14 nie zostal wpisany do pliku
+Błąd numer 7 Student juz istnieje w pliczku
+Student z linii 16 nie zostal wpisany do pliku
+Błąd numer 8 Student juz istnieje w pliczku
+Student z linii 19 nie zostal wpisany do pliku
+Błąd numer 9 Student juz istnieje w pliczku
+Student z linii 21 nie zostal wpisany do pliku
+Błąd numer 10 Niepoprawna ilosc informacji o studencie
+Student z linii 22 nie zostal wpisany do pliku
+Błąd numer 11 Student juz istnieje w pliczku
+Student z linii 24 nie zostal wpisany do pliku
+Błąd numer 12 Student juz istnieje w pliczku
+Student z linii 29 nie zostal wpisany do pliku
+Błąd numer 13 Student juz istnieje w pliczku
+Student z linii 33 nie zostal wpisany do pliku
+Błąd numer 14 Student juz istnieje w pliczku
+Student z linii 37 nie zostal wpisany do pliku
+Błąd numer 15 Student juz istnieje w pliczku
+Student z linii 42 nie zostal wpisany do pliku
+Błąd numer 16 Student juz istnieje w pliczku
+Student z linii 44 nie zostal wpisany do pliku
+Błąd numer 17 Student juz istnieje w pliczku
+Student z linii 51 nie zostal wpisany do pliku
+Błąd numer 18 Student juz istnieje w pliczku
+Student z linii 54 nie zostal wpisany do pliku
+Błąd numer 19 Student juz istnieje w pliczku
+Student z linii 58 nie zostal wpisany do pliku
+Błąd numer 20 Student juz istnieje w pliczku
+Student z linii 61 nie zostal wpisany do pliku
+Błąd numer 21 Student juz istnieje w pliczku
+Student z linii 68 nie zostal wpisany do pliku
+Błąd numer 22 Student juz istnieje w pliczku
+Student z linii 70 nie zostal wpisany do pliku
+Błąd numer 23 Student juz istnieje w pliczku
+Student z linii 77 nie zostal wpisany do pliku
+Błąd numer 24 Student juz istnieje w pliczku
+Student z linii 89 nie zostal wpisany do pliku
+Błąd numer 25 Niepoprawna ilosc informacji o studencie
+Student z linii 91 nie zostal wpisany do pliku
+Błąd numer 26 Student juz istnieje w pliczku
+Student z linii 94 nie zostal wpisany do pliku
+Błąd numer 27 Student juz istnieje w pliczku
+Student z linii 97 nie zostal wpisany do pliku
+Błąd numer 28 Student juz istnieje w pliczku
+Student z linii 101 nie zostal wpisany do pliku
+Błąd numer 29 Student juz istnieje w pliczku
+Student z linii 103 nie zostal wpisany do pliku
+Błąd numer 30 Student juz istnieje w pliczku
+Student z linii 106 nie zostal wpisany do pliku
+Błąd numer 31 Student juz istnieje w pliczku
+Student z linii 111 nie zostal wpisany do pliku
+Błąd numer 32 Student juz istnieje w pliczku
+Student z linii 114 nie zostal wpisany do pliku
+Błąd numer 33 Student juz istnieje w pliczku
+Student z linii 119 nie zostal wpisany do pliku
+Błąd numer 34 Student juz istnieje w pliczku
+Student z linii 120 nie zostal wpisany do pliku
+Błąd numer 35 Student juz istnieje w pliczku
+Student z linii 123 nie zostal wpisany do pliku
+Błąd numer 36 Student juz istnieje w pliczku
+Student z linii 124 nie zostal wpisany do pliku
+Błąd numer 37 Student juz istnieje w pliczku
+Student z linii 126 nie zostal wpisany do pliku
+Błąd numer 38 Student juz istnieje w pliczku
+Student z linii 128 nie zostal wpisany do pliku
+Błąd numer 39 Student juz istnieje w pliczku
+Student z linii 130 nie zostal wpisany do pliku
+Błąd numer 40 Student juz istnieje w pliczku
+Student z linii 132 nie zostal wpisany do pliku
+Błąd numer 41 Student juz istnieje w pliczku
+Student z linii 138 nie zostal wpisany do pliku
+Błąd numer 42 Student juz istnieje w pliczku
+Student z linii 139 nie zostal wpisany do pliku
+Błąd numer 43 Student juz istnieje w pliczku
+Student z linii 142 nie zostal wpisany do pliku
+Błąd numer 44 Student juz istnieje w pliczku
+Student z linii 144 nie zostal wpisany do pliku
+Błąd numer 45 Student juz istnieje w pliczku
+Student z linii 146 nie zostal wpisany do pliku
+Błąd numer 46 Student juz istnieje w pliczku
+Student z linii 148 nie zostal wpisany do pliku
+Błąd numer 47 Student juz istnieje w pliczku
+Student z linii 149 nie zostal wpisany do pliku
+Błąd numer 48 Student juz istnieje w pliczku
+Student z linii 152 nie zostal wpisany do pliku
+Błąd numer 49 Student juz istnieje w pliczku
+Student z linii 154 nie zostal wpisany do pliku
+Błąd numer 50 Student juz istnieje w pliczku
+Student z linii 155 nie zostal wpisany do pliku
+Błąd numer 51 Student juz istnieje w pliczku
+Student z linii 161 nie zostal wpisany do pliku
+Błąd numer 52 Student juz istnieje w pliczku
+Student z linii 164 nie zostal wpisany do pliku
+Błąd numer 53 Student juz istnieje w pliczku
+Student z linii 167 nie zostal wpisany do pliku
+Błąd numer 54 Student juz istnieje w pliczku
+Student z linii 169 nie zostal wpisany do pliku
+Błąd numer 55 Student juz istnieje w pliczku
+Student z linii 171 nie zostal wpisany do pliku
+Błąd numer 56 Student juz istnieje w pliczku
+Student z linii 175 nie zostal wpisany do pliku
+Błąd numer 57 Student juz istnieje w pliczku
+Student z linii 178 nie zostal wpisany do pliku
+Błąd numer 58 Student juz istnieje w pliczku
+Student z linii 180 nie zostal wpisany do pliku
+Błąd numer 59 Student juz istnieje w pliczku
+Student z linii 181 nie zostal wpisany do pliku
+Błąd numer 60 Student juz istnieje w pliczku
+Student z linii 182 nie zostal wpisany do pliku
+Błąd numer 61 Student juz istnieje w pliczku
+Student z linii 185 nie zostal wpisany do pliku
+Błąd numer 62 Student juz istnieje w pliczku
+Student z linii 188 nie zostal wpisany do pliku
+Błąd numer 63 Student juz istnieje w pliczku
+Student z linii 190 nie zostal wpisany do pliku
+Błąd numer 64 Student juz istnieje w pliczku
+Student z linii 193 nie zostal wpisany do pliku
+Błąd numer 65 Student juz istnieje w pliczku
+Student z linii 195 nie zostal wpisany do pliku
+Błąd numer 66 Student juz istnieje w pliczku
+Student z linii 197 nie zostal wpisany do pliku
+Błąd numer 67 Student juz istnieje w pliczku
+Student z linii 203 nie zostal wpisany do pliku
+Błąd numer 68 Student juz istnieje w pliczku
+Student z linii 205 nie zostal wpisany do pliku
+Błąd numer 69 Student juz istnieje w pliczku
+Student z linii 208 nie zostal wpisany do pliku
+Błąd numer 70 Student juz istnieje w pliczku
+Student z linii 210 nie zostal wpisany do pliku
+Błąd numer 71 Student juz istnieje w pliczku
+Student z linii 212 nie zostal wpisany do pliku
+Błąd numer 72 Student juz istnieje w pliczku
+Student z linii 214 nie zostal wpisany do pliku
+Błąd numer 73 Student juz istnieje w pliczku
+Student z linii 218 nie zostal wpisany do pliku
+Błąd numer 74 Student juz istnieje w pliczku
+Student z linii 221 nie zostal wpisany do pliku
+Błąd numer 75 Student juz istnieje w pliczku
+Student z linii 223 nie zostal wpisany do pliku
+Błąd numer 76 Student juz istnieje w pliczku
+Student z linii 226 nie zostal wpisany do pliku
+Błąd numer 77 Student juz istnieje w pliczku
+Student z linii 230 nie zostal wpisany do pliku
+Błąd numer 78 Student juz istnieje w pliczku
+Student z linii 231 nie zostal wpisany do pliku
+Błąd numer 79 Student juz istnieje w pliczku
+Student z linii 235 nie zostal wpisany do pliku
+Błąd numer 80 Student juz istnieje w pliczku
+Student z linii 237 nie zostal wpisany do pliku
+Błąd numer 81 Student juz istnieje w pliczku
+Student z linii 244 nie zostal wpisany do pliku
+Błąd numer 82 Student juz istnieje w pliczku
+Student z linii 246 nie zostal wpisany do pliku
+Błąd numer 83 Student juz istnieje w pliczku
+Student z linii 249 nie zostal wpisany do pliku
+Błąd numer 84 Student juz istnieje w pliczku
